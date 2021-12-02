@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Task 2\\Task 2.csproj": {}
+    "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Bug-report--task-2---28.11-\\Task 2\\Task 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Task 2\\Task 2.csproj": {
+    "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Bug-report--task-2---28.11-\\Task 2\\Task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Task 2\\Task 2.csproj",
+        "projectUniqueName": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Bug-report--task-2---28.11-\\Task 2\\Task 2.csproj",
         "projectName": "Task 2",
-        "projectPath": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Task 2\\Task 2.csproj",
+        "projectPath": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Bug-report--task-2---28.11-\\Task 2\\Task 2.csproj",
         "packagesPath": "C:\\Users\\ZSubkhonzoda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Task 2\\obj\\",
+        "outputPath": "C:\\Users\\ZSubkhonzoda\\source\\repos\\Task 2\\Bug-report--task-2---28.11-\\Task 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZSubkhonzoda\\AppData\\Roaming\\NuGet\\NuGet.Config",
